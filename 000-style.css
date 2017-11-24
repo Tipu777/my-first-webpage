@@ -1,8 +1,12 @@
 h1 {
-  color:Black;
-  font-family: VERDANA;
-  font-size:60px;
-  background-color:White;
-  display: inline;}
+  color:black;
+  font-family: "Verdana";
+  font-size:61px;
+  background-color:white;
+  text-align: center;}
 
-body {background-color:black;}
+  body {background-color:black;}
+
+#main-video {
+    text-align: center;
+}

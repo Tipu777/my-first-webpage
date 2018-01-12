@@ -1,0 +1,11 @@
+#main-menu{
+  border: 2px solid black;
+  text-align: center;
+}
+
+#main-menu-form{
+  border: 2px solid black;
+}
+#content{
+  border: 2px solid red
+}

@@ -24,9 +24,16 @@ h1 {
 text-align: left;}
 
 h3 {
-color: red;
+color: black;
 font-familiy: "Verdana";
 font-size: 65px;
 background-color: white;
 text-align: center;
+border: 60px;
 }
+#video2{
+text-align: left;
+}
+
+#main-menu {
+  border: 34px }
